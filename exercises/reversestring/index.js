@@ -9,7 +9,7 @@
 function reverse(str) {
     let reversed = '';
     for(let character of str){
-        reversed=character+reversed; //the deal is here :prepend
+        reversed=character+reversed; //the deal is here :prepend expression character+reversed
     }
 
     return reversed;

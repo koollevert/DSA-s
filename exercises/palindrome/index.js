@@ -13,8 +13,6 @@ function palindrome(str) {
 
     });
 
-
-    
 }
 
 
